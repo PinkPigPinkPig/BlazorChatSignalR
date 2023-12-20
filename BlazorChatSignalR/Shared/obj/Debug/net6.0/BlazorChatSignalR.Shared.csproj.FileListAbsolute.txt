@@ -1,0 +1,11 @@
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net6.0\BlazorChatSignalR.Shared.deps.json
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net6.0\BlazorChatSignalR.Shared.dll
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\bin\Debug\net6.0\BlazorChatSignalR.Shared.pdb
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.AssemblyInfoInputs.cache
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.AssemblyInfo.cs
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.csproj.CoreCompileInputs.cache
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.dll
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\refint\BlazorChatSignalR.Shared.dll
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\BlazorChatSignalR.Shared.pdb
+D:\Data\Learn\dotnet\BlazorChatSignalR\BlazorChatSignalR\Shared\obj\Debug\net6.0\ref\BlazorChatSignalR.Shared.dll
